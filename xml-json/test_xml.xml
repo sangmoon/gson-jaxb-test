@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog>
+    <book id="bk101">
+        <author>Jane Austen</author>
+        <title>Pride and Prejudice</title>
+        <genre>Romance</genre>
+        <price>6.99</price>
+        <publish_date>2010-04-01</publish_date>
+        <description>&quot;It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.&quot; So begins Pride and Prejudice, Jane Austen's witty comedy of manners-one of the most popular novels of all time-that features splendidly civilized sparring between the proud Mr. Darcy and the prejudiced Elizabeth Bennet as they play out their spirited courtship in a series of eighteenth-century drawing-room intrigues.</description>
+    </book>
+    <book id="bk102">
+        <author>Harper Lee</author>
+        <title>To Kill a Mockingbird</title>
+        <genre>Drama</genre>
+        <price>6.39</price>
+        <publish_date>2005-07-05</publish_date>
+        <description>One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father-a crusading local lawyer-risks everything to defend a black man unjustly accused of a terrible crime.</description>
+    </book>
+</catalog>
